@@ -1,6 +1,6 @@
 # Computational Vision Introduction
 
-Repository with the assignments for Computation Vision 101 course (INF01030), coursed at [INF](http://inf.ufrgs.br) - [UFRGS](https://ufrgs.br), by the professor [Cláudio Jung](http://www.inf.ufrgs.br/~crjung/).
+Repository with the assignments for Computer Vision 101 course (INF01030), coursed at [INF](http://inf.ufrgs.br) - [UFRGS](https://ufrgs.br), by the professor [Cláudio Jung](http://www.inf.ufrgs.br/~crjung/).
 
 ## Content
 
